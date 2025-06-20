@@ -48,10 +48,3 @@
 - Multiusuário (equipe/empresa)
 
 ---
-
-## 🧑‍💻 Desenvolvido por
-
-- Eduarda Cardoso Brandão  
-- Projeto acadêmico/pessoal com foco em controle financeiro e backend estruturado com boas práticas.
-
----
