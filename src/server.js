@@ -12,7 +12,7 @@ const app = express()
 
 const allowedOrigins = [
   'http://localhost:5173', 
-  'https://expense-frontend-2wahryfr9-spotivyies-projects.vercel.app', 
+  'https://expense-frontend-sooty.vercel.app', 
 ];
 
 app.use(cors({
